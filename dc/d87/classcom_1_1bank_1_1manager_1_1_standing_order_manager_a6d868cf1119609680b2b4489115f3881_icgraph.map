@@ -1,0 +1,5 @@
+<map id="com.bank.manager.StandingOrderManager.getAllOrders" name="com.bank.manager.StandingOrderManager.getAllOrders">
+<area shape="rect" id="Node000001" title="Returns a defensive copy of all loaded orders." alt="" coords="261,5,448,48"/>
+<area shape="rect" id="Node000002" href="$dc/d87/classcom_1_1bank_1_1manager_1_1_standing_order_manager.html#abae7d591dbc9cabc11fd42831302b84a" title="Executes all orders for a given date and persists the resulting state partitions." alt="" coords="5,5,213,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,29,213,29,213,24,245,24"/>
+</map>

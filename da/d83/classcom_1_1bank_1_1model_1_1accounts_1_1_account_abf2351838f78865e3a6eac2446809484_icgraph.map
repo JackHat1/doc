@@ -1,0 +1,7 @@
+<map id="com.bank.model.accounts.Account.getAccountTypeCode" name="com.bank.model.accounts.Account.getAccountTypeCode">
+<area shape="rect" id="Node000001" title="Returns the short type code for this account (used in IBAN and serialization)." alt="" coords="232,39,430,81"/>
+<area shape="rect" id="Node000002" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a19993b769030cf766125dd5ba9b44f88" title="Constructs a new account with zero initial balance." alt="" coords="5,5,184,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,46,184,42,184,37,216,41"/>
+<area shape="rect" id="Node000003" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#afeb766905d35bedf56c736ce592b4804" title="Serializes the account into a single&#45;line key&#45;value string." alt="" coords="5,72,184,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,79,184,83,184,78,216,74"/>
+</map>

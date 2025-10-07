@@ -1,0 +1,5 @@
+<map id="com.bank.model.orders.StandingOrder.getStartingDate" name="com.bank.model.orders.StandingOrder.getStartingDate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="263,5,475,48"/>
+<area shape="rect" id="Node000002" href="$d4/d34/classcom_1_1bank_1_1model_1_1orders_1_1_transfer_order.html#a043fd034f18ed31a9ad9fc95e2180dc6" title="Executes the transfer if the date matches the schedule and funds are sufficient." alt="" coords="5,5,215,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,29,215,29,215,24,247,24"/>
+</map>

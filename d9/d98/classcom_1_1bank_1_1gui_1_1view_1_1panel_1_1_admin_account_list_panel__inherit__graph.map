@@ -1,0 +1,5 @@
+<map id="com.bank.gui.view.panel.AdminAccountListPanel" name="com.bank.gui.view.panel.AdminAccountListPanel">
+<area shape="rect" id="Node000001" title="Πίνακας εμφάνισης όλων των λογαριασμών για χρήση από τον διαχειριστή." alt="" coords="5,123,176,208"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="66,5,116,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,89,94,123,88,123,88,89"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="gui/view/panel/DepositPanel.java" name="gui/view/panel/DepositPanel.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="744,5,958,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,190,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="743,29,501,49,205,82,204,77,500,43,743,24"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="214,80,418,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="757,35,434,82,433,77,756,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="443,80,621,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="801,35,630,78,628,73,800,30"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="646,80,842,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="836,35,785,72,782,68,833,30"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="866,88,1052,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="869,30,932,77,928,81,866,35"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1076,88,1175,115"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="898,30,1065,77,1074,80,1073,85,1063,83,897,35"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1199,88,1278,115"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="951,30,1065,49,1188,77,1195,80,1194,85,1186,83,1064,54,950,35"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1302,88,1394,115"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="959,26,1117,45,1205,59,1291,77,1302,80,1301,85,1290,83,1204,64,1116,50,958,31"/>
+</map>

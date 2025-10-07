@@ -1,0 +1,9 @@
+<map id="com.bank.manager.StandingOrderManager.StandingOrderManager" name="com.bank.manager.StandingOrderManager.StandingOrderManager">
+<area shape="rect" id="Node000001" title="Constructs the manager and immediately loads orders from disk." alt="" coords="5,39,246,81"/>
+<area shape="rect" id="Node000002" href="$dc/d87/classcom_1_1bank_1_1manager_1_1_standing_order_manager.html#aaee18d5046154f968277afe22f4f9505" title="Loads standing orders from all ledgers into memory." alt="" coords="294,39,481,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,57,278,57,278,63,246,63"/>
+<area shape="rect" id="Node000003" href="$dd/d22/classcom_1_1bank_1_1utilities_1_1_global_clock.html#a4b213daa421dfe86c55425781702327d" title="Returns the current simulated date." alt="" coords="553,5,717,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="481,45,538,37,538,42,482,50"/>
+<area shape="rect" id="Node000004" href="$d7/d26/classcom_1_1bank_1_1model_1_1orders_1_1_standing_order.html#a5f91b72c0121b9a7afec27ae0b9c9be9" title="Reconstructs this standing order from a serialized string." alt="" coords="529,72,741,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="482,70,514,74,513,80,481,75"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,613,67,640"/>
+<area shape="rect" id="Node000001" href="$df/d31/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_accounts_panel.html" title="Εμφανίζει όλους τους τραπεζικούς λογαριασμούς του συνδεδεμένου χρήστη." alt="" coords="134,5,302,48"/>
+<area shape="poly" id="edge21_Node000000_Node000001" title=" " alt="" coords="35,598,37,482,48,321,57,239,71,164,89,102,113,58,132,42,135,47,117,62,94,104,76,165,63,240,53,322,43,482,40,598"/>
+<area shape="rect" id="Node000002" href="$dd/d41/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_account_details_panel.html" title="Προβολή λεπτομερειών λογαριασμού για Admin." alt="" coords="128,72,308,115"/>
+<area shape="poly" id="edge22_Node000000_Node000002" title=" " alt="" coords="35,598,40,494,52,353,62,282,75,217,91,163,113,125,126,113,129,117,117,128,96,165,80,218,67,283,57,354,45,494,41,598"/>
+<area shape="rect" id="Node000003" href="$d3/d97/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_account_list_panel.html" title="Πίνακας εμφάνισης όλων των λογαριασμών για χρήση από τον διαχειριστή." alt="" coords="134,139,302,181"/>
+<area shape="poly" id="edge23_Node000000_Node000003" title=" " alt="" coords="36,598,42,506,56,386,78,269,94,224,113,192,132,176,135,180,117,195,99,226,84,271,61,386,48,507,41,598"/>
+<area shape="rect" id="Node000004" href="$d0/d7a/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_account_statements_panel.html" title="Προβολή καταστάσεων λογαριασμού (statements) για χρήση από τον διαχειριστή." alt="" coords="115,205,321,248"/>
+<area shape="poly" id="edge24_Node000000_Node000004" title=" " alt="" coords="37,598,45,519,60,418,82,322,96,285,113,258,126,246,130,250,117,262,101,287,87,324,66,419,51,520,42,598"/>
+<area shape="rect" id="Node000005" href="$dd/df4/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_create_account_panel.html" title="Παράθυρο δημιουργίας νέου λογαριασμού από τον διαχειριστή." alt="" coords="129,272,307,315"/>
+<area shape="poly" id="edge25_Node000000_Node000005" title=" " alt="" coords="34,598,35,542,45,469,55,430,69,392,88,357,113,325,127,313,130,317,117,329,93,360,74,394,60,432,51,470,41,542,39,598"/>
+<area shape="rect" id="Node000006" href="$d2/d09/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_create_customer_panel.html" title="Δημιουργία νέου χρήστη από διαχειριστή (Individual / Company / Admin)." alt="" coords="124,339,312,381"/>
+<area shape="poly" id="edge26_Node000000_Node000006" title=" " alt="" coords="36,598,42,553,54,498,77,441,93,415,113,391,128,380,131,384,117,395,97,418,82,443,59,499,47,554,41,598"/>
+<area shape="rect" id="Node000007" href="$d0/dbd/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_customer_details_panel.html" title="Εμφανίζει στοιχεία πελάτη (Customer) και τους συνδεδεμένους λογαριασμούς." alt="" coords="123,405,312,448"/>
+<area shape="poly" id="edge27_Node000000_Node000007" title=" " alt="" coords="41,597,50,565,64,528,85,490,113,458,129,446,132,451,116,462,89,493,69,530,55,567,46,599"/>
+<area shape="rect" id="Node000008" href="$dc/deb/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_customer_list_panel.html" title="Εμφανίζει λίστα όλων των εγγεγραμμένων πελατών (Individuals και Companies)." alt="" coords="133,472,302,515"/>
+<area shape="poly" id="edge28_Node000000_Node000008" title=" " alt="" coords="50,598,76,560,113,525,133,513,136,518,116,529,80,564,54,601"/>
+<area shape="rect" id="Node000009" href="$dd/d30/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_pay_bill_panel.html" title="Επιτρέπει σε διαχειριστή να πληρώσει λογαριασμό (Bill) εκ μέρους πελάτη." alt="" coords="134,539,302,581"/>
+<area shape="poly" id="edge29_Node000000_Node000009" title=" " alt="" coords="80,605,114,591,146,579,148,584,116,596,82,610"/>
+<area shape="rect" id="Node000010" href="$d3/d13/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_simulate_time_panel.html" title="Προσομοίωση “ροής χρόνου” για το σύστημα (τόκοι/πάγια, standing orders)." alt="" coords="132,605,304,648"/>
+<area shape="poly" id="edge30_Node000000_Node000010" title=" " alt="" coords="83,624,132,624,132,629,83,629"/>
+<area shape="rect" id="Node000011" href="$d1/d65/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_standing_orders_panel.html" title="Προβολή όλων των ενεργών, ληγμένων ή αποτυχημένων standing orders." alt="" coords="127,672,308,715"/>
+<area shape="poly" id="edge31_Node000000_Node000011" title=" " alt="" coords="82,644,116,658,148,669,146,674,114,662,80,649"/>
+<area shape="rect" id="Node000012" href="$d1/d1f/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_company_issue_bill_panel.html" title="Έκδοση νέου λογαριασμού (Bill) από εταιρικό χρήστη." alt="" coords="134,739,302,781"/>
+<area shape="poly" id="edge32_Node000000_Node000012" title=" " alt="" coords="54,652,80,690,116,725,136,736,133,740,113,729,76,693,50,655"/>
+<area shape="rect" id="Node000013" href="$d3/db4/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_company_issued_bills_panel.html" title="Προβολή όλων των λογαριασμών (bills) που έχει εκδώσει μία εταιρεία." alt="" coords="131,805,305,848"/>
+<area shape="poly" id="edge33_Node000000_Node000013" title=" " alt="" coords="46,655,55,687,69,723,89,760,116,791,132,803,129,807,113,795,85,763,64,726,50,688,41,656"/>
+<area shape="rect" id="Node000014" href="$d0/d3c/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_company_paid_bills_panel.html" title="Προβολή όλων των εξοφλημένων λογαριασμών που έχει εκδώσει μια εταιρεία." alt="" coords="134,872,302,915"/>
+<area shape="poly" id="edge34_Node000000_Node000014" title=" " alt="" coords="41,655,47,700,59,754,82,810,97,835,116,858,135,872,132,876,113,862,93,839,77,812,54,756,42,700,36,656"/>
+<area shape="rect" id="Node000015" href="$d4/df3/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_deposit_panel.html" title="Panel για κατάθεση χρημάτων από τον χρήστη σε έναν από τους λογαριασμούς του." alt="" coords="134,939,302,981"/>
+<area shape="poly" id="edge35_Node000000_Node000015" title=" " alt="" coords="39,655,41,711,51,784,60,822,74,859,93,894,117,925,135,939,132,943,113,929,88,897,69,861,55,823,45,785,35,712,34,655"/>
+<area shape="rect" id="Node000016" href="$dc/dd6/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_pay_bill_panel.html" title="Πληρωμή λογαριασμού (Bill) μέσω RF Code από επιλεγμένο λογαριασμό χρήστη." alt="" coords="134,1005,302,1048"/>
+<area shape="poly" id="edge36_Node000000_Node000016" title=" " alt="" coords="42,655,51,733,66,834,87,929,101,966,117,992,135,1006,132,1010,113,995,96,969,82,931,60,835,45,734,37,656"/>
+<area shape="rect" id="Node000017" href="$d1/d7d/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_statement_panel.html" title="Προβολή κινήσεων (statements) για έναν επιλεγμένο λογαριασμό του χρήστη." alt="" coords="134,1072,302,1115"/>
+<area shape="poly" id="edge37_Node000000_Node000017" title=" " alt="" coords="41,655,48,746,61,867,84,983,99,1028,117,1058,135,1073,132,1077,113,1062,94,1030,78,984,56,868,42,747,36,656"/>
+<area shape="rect" id="Node000018" href="$dc/d10/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_transfer_panel.html" title="Μεταφορά χρημάτων από λογαριασμό του χρήστη προς άλλον λογαριασμό (IBAN)." alt="" coords="134,1139,302,1181"/>
+<area shape="poly" id="edge38_Node000000_Node000018" title=" " alt="" coords="41,655,45,759,57,899,67,971,80,1035,96,1089,117,1125,135,1140,131,1144,113,1128,91,1091,75,1037,62,971,52,900,40,759,35,655"/>
+<area shape="rect" id="Node000019" href="$d3/da8/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_withdraw_panel.html" title="Ανάληψη χρημάτων από λογαριασμό του χρήστη." alt="" coords="134,1205,302,1248"/>
+<area shape="poly" id="edge39_Node000000_Node000019" title=" " alt="" coords="40,655,43,771,53,931,63,1013,76,1088,94,1150,117,1192,135,1207,132,1211,113,1195,89,1152,71,1089,57,1014,48,932,37,771,35,655"/>
+</map>

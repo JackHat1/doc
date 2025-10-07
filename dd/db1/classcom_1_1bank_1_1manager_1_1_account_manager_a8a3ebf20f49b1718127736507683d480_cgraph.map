@@ -1,0 +1,5 @@
+<map id="com.bank.manager.AccountManager.findByIban" name="com.bank.manager.AccountManager.findByIban">
+<area shape="rect" id="Node000001" title="Finds an account by IBAN." alt="" coords="5,5,190,48"/>
+<area shape="rect" id="Node000002" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a38981f8e6e13e82b7135c3b57bd2bba0" title=" " alt="" coords="238,5,416,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,24,222,24,222,29,190,29"/>
+</map>

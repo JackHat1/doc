@@ -1,0 +1,5 @@
+<map id="com.bank.utilities.GlobalClock.getDateTime" name="com.bank.utilities.GlobalClock.getDateTime">
+<area shape="rect" id="Node000001" title="Returns the current simulated date and time." alt="" coords="250,5,414,48"/>
+<area shape="rect" id="Node000002" href="$d5/d94/classcom_1_1bank_1_1model_1_1transactions_1_1_transaction.html#a940457ab56b0189ccac3b3c8a5e5fc1f" title="Constructs a transaction and initializes common metadata." alt="" coords="5,5,202,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,29,202,29,202,24,234,24"/>
+</map>

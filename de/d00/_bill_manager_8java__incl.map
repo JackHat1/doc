@@ -1,0 +1,17 @@
+<map id="manager/BillManager.java" name="manager/BillManager.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="382,5,553,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,88,90,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="382,32,249,52,103,83,94,85,93,80,102,77,249,46,381,27"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="114,88,237,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="423,35,237,86,235,81,421,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="260,88,352,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="443,35,346,83,343,79,441,30"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="376,88,559,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="470,32,470,73,465,73,465,32"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="584,88,746,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="499,30,621,79,619,84,497,35"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="770,88,936,115"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="529,30,759,77,779,82,778,87,758,83,528,35"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="960,80,1159,123"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="554,27,730,48,945,77,945,82,729,53,553,32"/>
+</map>

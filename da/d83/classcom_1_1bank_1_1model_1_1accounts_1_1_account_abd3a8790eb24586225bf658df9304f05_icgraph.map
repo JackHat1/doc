@@ -1,0 +1,7 @@
+<map id="com.bank.model.accounts.Account.getInterestRate" name="com.bank.model.accounts.Account.getInterestRate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="275,51,453,93"/>
+<area shape="rect" id="Node000002" href="$dd/d41/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_account_details_panel.html#a78d537f580f0dddc9983b57244f0532f" title="Δημιουργεί το panel προβολής λεπτομερειών λογαριασμού." alt="" coords="5,5,227,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,59,227,54,227,49,260,54"/>
+<area shape="rect" id="Node000003" href="$d3/d75/classcom_1_1bank_1_1model_1_1accounts_1_1_business_account.html#aa9ce2b5e047602cfdbbc836233fd567e" title="Serializes this business account into a single&#45;line key&#45;value string." alt="" coords="27,88,205,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,90,206,99,205,93,259,85"/>
+</map>

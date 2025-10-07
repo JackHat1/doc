@@ -1,0 +1,7 @@
+<map id="com.bank.model.bills.Bill.marshal" name="com.bank.model.bills.Bill.marshal">
+<area shape="rect" id="Node000001" title="Serializes the bill to a single&#45;line key&#45;value representation." alt="" coords="584,21,800,48"/>
+<area shape="rect" id="Node000002" href="$dc/d48/classcom_1_1bank_1_1manager_1_1_bill_manager.html#abff1fcc6244988c55e92bb56be27ecae" title="Issues (creates or replaces) a bill and persists it." alt="" coords="274,21,536,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="569,37,536,37,536,32,569,32"/>
+<area shape="rect" id="Node000003" href="$d1/d1f/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_company_issue_bill_panel.html#a645fecb7696c87072389cb264b36bd77" title="Δημιουργεί panel έκδοσης λογαριασμού για εταιρικό χρήστη." alt="" coords="5,5,226,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="258,37,226,37,226,32,258,32"/>
+</map>

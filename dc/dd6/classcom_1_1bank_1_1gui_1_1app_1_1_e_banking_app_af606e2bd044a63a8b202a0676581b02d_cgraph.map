@@ -1,0 +1,25 @@
+<map id="com.bank.gui.app.EBankingApp.main" name="com.bank.gui.app.EBankingApp.main">
+<area shape="rect" id="Node000001" title="Application entry point (Swing)." alt="" coords="5,305,190,348"/>
+<area shape="rect" id="Node000002" href="$dd/db1/classcom_1_1bank_1_1manager_1_1_account_manager.html#ae89787590be8e4cb9f2310aee2630b1a" title="Loads accounts from CSV into memory." alt="" coords="267,205,451,248"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,302,286,252,288,257,157,307"/>
+<area shape="rect" id="Node000009" href="$db/d15/classcom_1_1bank_1_1manager_1_1_user_manager.html#ae439809371121e161e8201d9d0ef4938" title="Loads all users from the CSV file." alt="" coords="238,313,480,340"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="190,324,222,324,222,329,190,329"/>
+<area shape="rect" id="Node000010" href="$dc/d48/classcom_1_1bank_1_1manager_1_1_bill_manager.html#a0a16b9f5e89eb52128535fa13f8e558f" title="Loads bills from global ledgers and daily files; rebuilds in&#45;memory state." alt="" coords="243,405,475,448"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="157,346,288,397,286,402,155,351"/>
+<area shape="rect" id="Node000003" href="$dc/df2/classcom_1_1bank_1_1model_1_1accounts_1_1_personal_account.html#ad82a2a028f6260d252a83cb525e81280" title="Adds a co&#45;owner to this personal account." alt="" coords="540,5,740,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,203,436,132,479,92,527,58,536,52,539,57,529,62,482,96,440,136,378,207"/>
+<area shape="rect" id="Node000004" href="$dc/df2/classcom_1_1bank_1_1model_1_1accounts_1_1_personal_account.html#a00b8b9c6c4343b0c79612f5e240534ec" title="Returns the VAT identifiers of co&#45;owners parsed during loading." alt="" coords="528,72,751,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="390,202,452,163,527,124,542,118,544,123,529,129,455,168,393,207"/>
+<area shape="rect" id="Node000005" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#aa943c031213311a46e833a8e2b4b80b9" title=" " alt="" coords="550,139,729,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="451,202,535,182,536,187,452,207"/>
+<area shape="rect" id="Node000006" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a5c90e0c185175ac9b2efa3e2ca8e39df" title=" " alt="" coords="550,205,729,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="452,224,535,224,535,229,452,229"/>
+<area shape="rect" id="Node000007" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a612fa744909ae3c3e9ef01f040d4f9df" title=" " alt="" coords="550,272,729,315"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="452,246,536,266,535,271,451,251"/>
+<area shape="rect" id="Node000008" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a9310000b791eb785ef80e11540d04c46" title="Deserializes fields from a key&#45;value string produced by marshal()." alt="" coords="550,339,729,381"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="396,246,468,291,529,324,544,330,542,335,527,329,465,295,393,251"/>
+<area shape="rect" id="Node000011" href="$d3/dd4/classcom_1_1bank_1_1model_1_1bills_1_1_bill.html#a73882163a2347d97e6d532096d4c2312" title=" " alt="" coords="546,405,734,448"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="475,424,530,424,530,429,475,429"/>
+<area shape="rect" id="Node000012" href="$d3/dd4/classcom_1_1bank_1_1model_1_1bills_1_1_bill.html#a0d03ed4f25d34f88efec757d7f88a348" title=" " alt="" coords="532,472,747,499"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="465,446,558,466,557,471,464,451"/>
+</map>

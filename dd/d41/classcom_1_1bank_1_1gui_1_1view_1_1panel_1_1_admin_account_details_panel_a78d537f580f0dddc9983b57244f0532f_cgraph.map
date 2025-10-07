@@ -1,0 +1,20 @@
+<map id="com.bank.gui.view.panel.AdminAccountDetailsPanel.AdminAccountDetailsPanel" name="com.bank.gui.view.panel.AdminAccountDetailsPanel.AdminAccountDetailsPanel">
+<area shape="rect" id="Node000001" title="Δημιουργεί το panel προβολής λεπτομερειών λογαριασμού." alt="" coords="5,215,227,273"/>
+<area shape="rect" id="Node000002" href="$dd/db1/classcom_1_1bank_1_1manager_1_1_account_manager.html#a8a3ebf20f49b1718127736507683d480" title="Finds an account by IBAN." alt="" coords="310,5,494,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,212,191,139,229,99,273,64,295,52,298,57,276,69,233,103,195,142,138,216"/>
+<area shape="rect" id="Node000003" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a38981f8e6e13e82b7135c3b57bd2bba0" title=" " alt="" coords="578,35,756,77"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="141,212,198,158,234,130,274,108,326,93,400,79,563,61,563,67,401,85,328,98,276,113,237,135,201,162,145,216"/>
+<area shape="rect" id="Node000004" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a9fb33a39fa4b91e75fc66a93ff23ae8b" title=" " alt="" coords="313,123,492,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,212,274,175,297,167,299,172,276,180,183,217"/>
+<area shape="rect" id="Node000005" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a646120eab2b4147a1d8d5984c2c661a4" title=" " alt="" coords="313,189,492,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="227,228,297,220,298,225,227,234"/>
+<area shape="rect" id="Node000006" href="$dd/dee/classcom_1_1bank_1_1model_1_1users_1_1_user.html#a5391325a7c7123854a0ea11946fe7a85" title=" " alt="" coords="299,256,506,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="227,254,284,261,283,266,227,260"/>
+<area shape="rect" id="Node000007" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#abd3a8790eb24586225bf658df9304f05" title=" " alt="" coords="313,323,492,365"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="183,271,276,308,299,316,297,321,274,313,181,276"/>
+<area shape="rect" id="Node000008" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a2fa464e8efa1047ae0452e57c2bbfc57" title=" " alt="" coords="313,389,492,432"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="146,272,203,325,238,352,276,375,300,385,298,390,273,380,235,356,200,329,143,276"/>
+<area shape="rect" id="Node000009" href="$dd/d5f/classcom_1_1bank_1_1model_1_1users_1_1_customer.html#a5bf723beb2c45823230bf1db33e927ef" title="Returns the VAT (ΑΦΜ) of the customer." alt="" coords="275,456,530,483"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="134,273,157,312,189,358,229,404,276,442,286,447,283,452,273,446,225,408,184,362,152,315,130,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="495,34,563,42,562,47,495,40"/>
+</map>

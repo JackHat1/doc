@@ -1,0 +1,9 @@
+<map id="com.bank.model.transactions.Withdrawal.execute" name="com.bank.model.transactions.Withdrawal.execute">
+<area shape="rect" id="Node000001" title="Executes the withdrawal transaction." alt="" coords="5,39,202,81"/>
+<area shape="rect" id="Node000002" href="$d5/d94/classcom_1_1bank_1_1model_1_1transactions_1_1_transaction.html#a128594b711bb000163f647d39a561fce" title=" " alt="" coords="250,5,446,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,44,234,40,234,45,202,49"/>
+<area shape="rect" id="Node000003" href="$d9/dd7/classcom_1_1bank_1_1manager_1_1_statement_manager.html#ab672ee8fb1badf21d6218f0e5002b50f" title="Appends a single statement entry to the account&#39;s statement file." alt="" coords="250,72,446,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,71,234,75,234,80,202,76"/>
+<area shape="rect" id="Node000004" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a38981f8e6e13e82b7135c3b57bd2bba0" title=" " alt="" coords="494,72,672,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="446,91,478,91,478,96,446,96"/>
+</map>

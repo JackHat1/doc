@@ -1,0 +1,9 @@
+<map id="com.bank.model.users.Customer.getVat" name="com.bank.model.users.Customer.getVat">
+<area shape="rect" id="Node000001" title="Returns the VAT (ΑΦΜ) of the customer." alt="" coords="284,104,539,131"/>
+<area shape="rect" id="Node000002" href="$dd/d41/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_account_details_panel.html#a78d537f580f0dddc9983b57244f0532f" title="Δημιουργεί το panel προβολής λεπτομερειών λογαριασμού." alt="" coords="10,5,231,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="346,102,225,67,227,62,348,97"/>
+<area shape="rect" id="Node000003" href="$d0/dbd/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_customer_details_panel.html#a2f0001eb86c6d5194a96fe77289563a4" title="Δημιουργεί το panel εμφάνισης στοιχείων πελάτη για τον Admin." alt="" coords="5,88,236,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,120,236,120,236,115,268,115"/>
+<area shape="rect" id="Node000004" href="$d3/d75/classcom_1_1bank_1_1model_1_1accounts_1_1_business_account.html#aa9ce2b5e047602cfdbbc836233fd567e" title="Serializes this business account into a single&#45;line key&#45;value string." alt="" coords="31,171,210,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="342,138,207,173,206,167,341,132"/>
+</map>

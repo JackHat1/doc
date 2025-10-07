@@ -1,0 +1,5 @@
+<map id="com.bank.gui.view.panel.CompanyPaidBillsPanel" name="com.bank.gui.view.panel.CompanyPaidBillsPanel">
+<area shape="rect" id="Node000001" title="Προβολή όλων των εξοφλημένων λογαριασμών που έχει εκδώσει μια εταιρεία." alt="" coords="5,123,177,208"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="66,5,117,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,89,94,123,89,123,89,89"/>
+</map>

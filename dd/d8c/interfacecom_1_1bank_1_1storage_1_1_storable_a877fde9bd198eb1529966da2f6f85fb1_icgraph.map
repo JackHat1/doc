@@ -1,0 +1,5 @@
+<map id="com.bank.storage.Storable.unmarshal" name="com.bank.storage.Storable.unmarshal">
+<area shape="rect" id="Node000001" title="Restores the object&#39;s state from a given text representation." alt="" coords="252,13,493,40"/>
+<area shape="rect" id="Node000002" href="$de/dff/classcom_1_1bank_1_1storage_1_1_csv_storage_manager.html#a0e12aa400a0e1d8fd9e895d3eebc5e2a" title="Loads a single Storable object from a CSV file." alt="" coords="5,5,204,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,29,204,29,204,24,236,24"/>
+</map>

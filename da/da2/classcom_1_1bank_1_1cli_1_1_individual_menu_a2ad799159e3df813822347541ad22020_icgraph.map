@@ -1,0 +1,5 @@
+<map id="com.bank.cli.IndividualMenu.run" name="com.bank.cli.IndividualMenu.run">
+<area shape="rect" id="Node000001" title="Runs the interactive menu loop." alt="" coords="213,5,421,32"/>
+<area shape="rect" id="Node000002" href="$d7/dc0/classcom_1_1bank_1_1cli_1_1_main.html#a0726fa11d066592ac86683935465fe5f" title="Application entry point." alt="" coords="5,5,165,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,21,165,21,165,16,197,16"/>
+</map>

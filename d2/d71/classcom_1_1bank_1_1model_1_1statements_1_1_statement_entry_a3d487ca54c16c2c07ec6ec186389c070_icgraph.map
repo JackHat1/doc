@@ -1,0 +1,7 @@
+<map id="com.bank.model.statements.StatementEntry.unmarshal" name="com.bank.model.statements.StatementEntry.unmarshal">
+<area shape="rect" id="Node000001" title="Populates this entry from a serialized CSV line." alt="" coords="508,13,698,56"/>
+<area shape="rect" id="Node000002" href="$d9/dd7/classcom_1_1bank_1_1manager_1_1_statement_manager.html#a26e1d7788e4c26ead0ce932e8e23ae27" title="Loads all statement entries for a given account." alt="" coords="264,13,460,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,37,460,37,460,32,492,32"/>
+<area shape="rect" id="Node000003" href="$d0/d7a/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_account_statements_panel.html#a71db6191ffbc00e50dfe72d28e127e26" title="Δημιουργεί το panel προβολής κινήσεων λογαριασμού." alt="" coords="5,5,216,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,37,216,37,216,32,248,32"/>
+</map>

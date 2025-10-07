@@ -1,0 +1,5 @@
+<map id="com.bank.model.transactions.Transfer" name="com.bank.model.transactions.Transfer">
+<area shape="rect" id="Node000001" title="Represents a money transfer between two bank accounts." alt="" coords="5,352,191,523"/>
+<area shape="rect" id="Node000002" href="$d5/d94/classcom_1_1bank_1_1model_1_1transactions_1_1_transaction.html" title="Abstract base class representing a financial transaction." alt="" coords="5,5,191,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,319,101,352,96,352,96,319"/>
+</map>

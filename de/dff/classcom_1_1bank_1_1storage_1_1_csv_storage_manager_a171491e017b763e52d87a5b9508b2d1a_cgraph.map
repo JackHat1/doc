@@ -1,0 +1,5 @@
+<map id="com.bank.storage.CsvStorageManager.save" name="com.bank.storage.CsvStorageManager.save">
+<area shape="rect" id="Node000001" title="Saves a single Storable object to a CSV file." alt="" coords="5,5,204,48"/>
+<area shape="rect" id="Node000002" href="$dd/d8c/interfacecom_1_1bank_1_1storage_1_1_storable.html#ab2d361ccb09e544fa2cb6bd402ff513e" title="Converts the current object into a text (string) representation." alt="" coords="252,13,479,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,24,236,24,236,29,204,29"/>
+</map>

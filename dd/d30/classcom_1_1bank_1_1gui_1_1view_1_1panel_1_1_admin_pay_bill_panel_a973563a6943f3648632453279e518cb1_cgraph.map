@@ -1,0 +1,35 @@
+<map id="com.bank.gui.view.panel.AdminPayBillPanel.AdminPayBillPanel" name="com.bank.gui.view.panel.AdminPayBillPanel.AdminPayBillPanel">
+<area shape="rect" id="Node000001" title="Δημιουργεί το panel πληρωμής λογαριασμού από Admin." alt="" coords="5,339,253,381"/>
+<area shape="rect" id="Node000002" href="$d6/d0e/classcom_1_1bank_1_1manager_1_1_transaction_manager.html#a4ade645d8387a45e8026f0efd086c921" title="Executes a transaction and records it in history." alt="" coords="324,5,528,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,338,153,281,186,205,208,165,234,126,264,89,299,58,309,51,312,56,302,62,268,93,238,129,212,168,190,208,158,283,139,339"/>
+<area shape="rect" id="Node000004" href="$dd/db1/classcom_1_1bank_1_1manager_1_1_account_manager.html#a8a3ebf20f49b1718127736507683d480" title="Finds an account by IBAN." alt="" coords="334,72,518,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="138,337,160,292,196,235,242,175,269,148,299,124,318,114,321,118,302,129,273,152,246,179,200,238,165,295,142,339"/>
+<area shape="rect" id="Node000006" href="$db/d15/classcom_1_1bank_1_1manager_1_1_user_manager.html#afbdaa6e3428ae4884bb804b28b9c5535" title="Finds a customer by VAT number." alt="" coords="307,139,546,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="144,337,207,265,250,225,299,191,310,186,312,190,302,196,254,229,210,269,148,340"/>
+<area shape="rect" id="Node000007" href="$dd/db1/classcom_1_1bank_1_1manager_1_1_account_manager.html#a9cfb69758fe6d4532cba2d754cca7af2" title="Returns all loaded accounts." alt="" coords="334,205,518,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="160,336,223,296,300,258,319,250,320,255,302,262,226,301,163,340"/>
+<area shape="rect" id="Node000008" href="$d3/dd4/classcom_1_1bank_1_1model_1_1bills_1_1_bill.html#aad5240cceb00c7c382167c877fd2f09e" title=" " alt="" coords="332,272,520,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="227,335,316,315,317,320,228,341"/>
+<area shape="rect" id="Node000009" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a9fb33a39fa4b91e75fc66a93ff23ae8b" title=" " alt="" coords="337,339,516,381"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="253,357,322,357,322,363,253,363"/>
+<area shape="rect" id="Node000010" href="$dc/d48/classcom_1_1bank_1_1manager_1_1_bill_manager.html#a9e1ae7cd2460652d88fd043dca6d4dc5" title="Finds a bill by its RF/paymentCode among all bills." alt="" coords="313,405,540,448"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="228,379,314,399,313,404,227,385"/>
+<area shape="rect" id="Node000013" href="$d3/dd4/classcom_1_1bank_1_1model_1_1bills_1_1_bill.html#a51246f53268ef90f6c26803fd1121e5c" title=" " alt="" coords="332,472,520,515"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="163,380,226,419,302,458,319,464,317,469,300,462,223,424,160,384"/>
+<area shape="rect" id="Node000014" href="$dc/d48/classcom_1_1bank_1_1manager_1_1_bill_manager.html#a0a16b9f5e89eb52128535fa13f8e558f" title="Loads bills from global ledgers and daily files; rebuilds in&#45;memory state." alt="" coords="310,539,542,581"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="148,380,210,451,254,491,302,524,312,530,310,534,299,529,250,495,207,455,144,383"/>
+<area shape="rect" id="Node000015" href="$d3/dd4/classcom_1_1bank_1_1model_1_1bills_1_1_bill.html#a0d03ed4f25d34f88efec757d7f88a348" title=" " alt="" coords="606,576,820,603"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="141,381,161,428,195,487,217,518,242,546,270,571,302,591,345,609,391,620,438,625,486,626,575,619,649,604,650,609,576,624,486,632,438,631,390,625,344,614,299,596,267,575,238,550,213,521,191,490,157,430,136,383"/>
+<area shape="rect" id="Node000016" href="$dc/d48/classcom_1_1bank_1_1manager_1_1_bill_manager.html#ae8eda57edbba75f404b5053d0f1a240f" title="Persists in&#45;memory issued &amp; paid lists to global ledgers." alt="" coords="301,656,552,683"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="140,381,160,433,193,503,241,574,270,607,302,635,324,648,321,652,299,640,266,611,237,578,189,505,155,436,135,383"/>
+<area shape="rect" id="Node000003" href="$d5/d94/classcom_1_1bank_1_1model_1_1transactions_1_1_transaction.html#a31513476c29864af24cc9a96185ceaa7" title="Executes the transaction logic." alt="" coords="615,5,811,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="529,24,600,24,600,29,529,29"/>
+<area shape="rect" id="Node000005" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a38981f8e6e13e82b7135c3b57bd2bba0" title=" " alt="" coords="624,72,802,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="519,91,608,91,608,96,519,96"/>
+<area shape="rect" id="Node000011" href="$dc/d48/classcom_1_1bank_1_1manager_1_1_bill_manager.html#ac7ca72058f0f60e72fb7a0d88742fc3c" title="Returns all bills (issued + paid)." alt="" coords="600,405,826,448"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="540,424,584,424,584,429,540,429"/>
+<area shape="rect" id="Node000012" href="$d3/dd4/classcom_1_1bank_1_1model_1_1bills_1_1_bill.html#a73882163a2347d97e6d532096d4c2312" title=" " alt="" coords="619,491,807,533"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="513,446,553,457,634,483,632,488,551,463,511,451"/>
+<area shape="poly" id="edge14_Node000014_Node000012" title=" " alt="" coords="542,538,603,528,604,533,543,543"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="543,569,591,574,590,579,543,575"/>
+</map>

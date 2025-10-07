@@ -1,0 +1,5 @@
+<map id="com.bank.storage.Storable.marshal" name="com.bank.storage.Storable.marshal">
+<area shape="rect" id="Node000001" title="Converts the current object into a text (string) representation." alt="" coords="252,13,479,40"/>
+<area shape="rect" id="Node000002" href="$de/dff/classcom_1_1bank_1_1storage_1_1_csv_storage_manager.html#a171491e017b763e52d87a5b9508b2d1a" title="Saves a single Storable object to a CSV file." alt="" coords="5,5,204,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,29,204,29,204,24,236,24"/>
+</map>

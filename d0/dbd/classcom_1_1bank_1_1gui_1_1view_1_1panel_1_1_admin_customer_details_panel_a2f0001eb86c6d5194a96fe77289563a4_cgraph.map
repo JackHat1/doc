@@ -1,0 +1,15 @@
+<map id="com.bank.gui.view.panel.AdminCustomerDetailsPanel.AdminCustomerDetailsPanel" name="com.bank.gui.view.panel.AdminCustomerDetailsPanel.AdminCustomerDetailsPanel">
+<area shape="rect" id="Node000001" title="Δημιουργεί το panel εμφάνισης στοιχείων πελάτη για τον Admin." alt="" coords="5,160,236,219"/>
+<area shape="rect" id="Node000002" href="$db/d15/classcom_1_1bank_1_1manager_1_1_user_manager.html#afbdaa6e3428ae4884bb804b28b9c5535" title="Finds a customer by VAT number." alt="" coords="292,5,531,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,158,208,107,244,80,282,58,295,52,298,57,285,62,247,85,211,111,153,162"/>
+<area shape="rect" id="Node000003" href="$dd/db1/classcom_1_1bank_1_1manager_1_1_account_manager.html#a9cfb69758fe6d4532cba2d754cca7af2" title="Returns all loaded accounts." alt="" coords="319,72,504,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,157,283,124,306,117,308,122,285,129,195,162"/>
+<area shape="rect" id="Node000004" href="$dd/dee/classcom_1_1bank_1_1model_1_1users_1_1_user.html#a5391325a7c7123854a0ea11946fe7a85" title=" " alt="" coords="308,139,515,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,175,292,169,293,175,236,180"/>
+<area shape="rect" id="Node000005" href="$dd/dee/classcom_1_1bank_1_1model_1_1users_1_1_user.html#ae782efebfa028fc60f91c67e4ffd6167" title="Returns the user’s role type." alt="" coords="294,205,528,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="236,198,279,203,279,208,236,204"/>
+<area shape="rect" id="Node000006" href="$dd/dee/classcom_1_1bank_1_1model_1_1users_1_1_user.html#a4347326cfb6910b50c691e19ec805c1c" title=" " alt="" coords="308,256,515,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="208,217,284,241,310,249,308,254,283,247,206,222"/>
+<area shape="rect" id="Node000007" href="$dd/d5f/classcom_1_1bank_1_1model_1_1users_1_1_customer.html#a5bf723beb2c45823230bf1db33e927ef" title="Returns the VAT (ΑΦΜ) of the customer." alt="" coords="284,323,539,349"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="154,217,212,265,248,288,285,308,303,315,301,320,283,313,245,293,209,269,151,221"/>
+</map>

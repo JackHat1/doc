@@ -1,0 +1,5 @@
+<map id="com.bank.gui.view.LoginWindow" name="com.bank.gui.view.LoginWindow">
+<area shape="rect" id="Node000001" title="Απλό Swing παράθυρο σύνδεσης (username/password) για το e&#45;banking GUI." alt="" coords="5,123,206,235"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="78,5,133,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,90,108,123,103,123,103,90"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="gui/view/panel/AdminCreateCustomerPanel.java" name="gui/view/panel/AdminCreateCustomerPanel.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="310,5,494,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,220,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="328,51,174,94,172,89,327,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="243,96,406,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="384,50,349,86,345,83,380,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="430,96,529,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="424,47,458,83,455,86,420,50"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="553,96,632,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="452,46,550,87,548,92,450,51"/>
+</map>

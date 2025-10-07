@@ -1,0 +1,5 @@
+<map id="com.bank.model.orders.StandingOrder" name="com.bank.model.orders.StandingOrder">
+<area shape="rect" id="Node000001" title="Abstract base class for automated scheduled banking orders." alt="" coords="5,144,207,613"/>
+<area shape="rect" id="Node000002" href="$dd/d8c/interfacecom_1_1bank_1_1storage_1_1_storable.html" title="Defines the serialization and deserialization behavior for persistent objects." alt="" coords="23,5,190,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,111,109,144,104,144,104,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.bank.model.accounts.Account.generateIBAN" name="com.bank.model.accounts.Account.generateIBAN">
+<area shape="rect" id="Node000001" title="Generates a pseudo&#45;IBAN based on a country code and a type code." alt="" coords="232,5,410,48"/>
+<area shape="rect" id="Node000002" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a19993b769030cf766125dd5ba9b44f88" title="Constructs a new account with zero initial balance." alt="" coords="5,5,184,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,29,184,29,184,24,216,24"/>
+</map>

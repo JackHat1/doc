@@ -1,0 +1,3 @@
+<map id="com.bank.manager.StatementManager" name="com.bank.manager.StatementManager">
+<area shape="rect" id="Node000001" title="Handles persistence and retrieval of account statement entries." alt="" coords="5,5,191,133"/>
+</map>

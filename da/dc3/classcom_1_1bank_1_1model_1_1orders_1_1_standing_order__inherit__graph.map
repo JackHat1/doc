@@ -1,0 +1,9 @@
+<map id="com.bank.model.orders.StandingOrder" name="com.bank.model.orders.StandingOrder">
+<area shape="rect" id="Node000001" title="Abstract base class for automated scheduled banking orders." alt="" coords="118,144,320,613"/>
+<area shape="rect" id="Node000003" href="$dc/d2a/classcom_1_1bank_1_1model_1_1orders_1_1_payment_order.html" title="Standing order that pays a bill (by payment code) on its due date within a max amount limit." alt="" coords="5,661,208,832"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,628,135,662,130,661,140,627"/>
+<area shape="rect" id="Node000004" href="$d4/d34/classcom_1_1bank_1_1model_1_1orders_1_1_transfer_order.html" title="Standing order that transfers a fixed amount between two IBANs on a specific day each month." alt="" coords="233,661,431,832"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="298,626,309,661,304,662,293,628"/>
+<area shape="rect" id="Node000002" href="$dd/d8c/interfacecom_1_1bank_1_1storage_1_1_storable.html" title="Defines the serialization and deserialization behavior for persistent objects." alt="" coords="135,5,302,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,111,221,144,216,144,216,111"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="cli/IndividualMenu.java" name="cli/IndividualMenu.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="606,5,759,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,88,147,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="606,28,403,48,281,64,159,83,139,87,138,81,158,77,280,58,402,43,605,23"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="171,88,357,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="617,35,369,83,344,87,343,82,367,77,616,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="380,80,558,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="650,35,540,76,538,71,648,30"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="582,88,783,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="685,32,685,73,680,73,680,32"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="808,88,974,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="716,30,845,80,843,84,714,35"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="998,80,1188,123"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="748,30,984,76,983,81,747,35"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1213,88,1288,115"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="760,20,961,36,1081,53,1201,77,1209,80,1208,85,1199,83,1080,58,960,41,759,25"/>
+</map>

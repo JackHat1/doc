@@ -1,0 +1,7 @@
+<map id="com.bank.model.accounts.BusinessAccount" name="com.bank.model.accounts.BusinessAccount">
+<area shape="rect" id="Node000001" title="Represents a business (company) bank account with an additional monthly maintenance fee." alt="" coords="5,661,173,832"/>
+<area shape="rect" id="Node000002" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html" title="Abstract base class for bank accounts." alt="" coords="5,144,173,613"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,628,92,662,86,662,86,628"/>
+<area shape="rect" id="Node000003" href="$dd/d8c/interfacecom_1_1bank_1_1storage_1_1_storable.html" title="Defines the serialization and deserialization behavior for persistent objects." alt="" coords="6,5,172,96"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,111,92,144,86,144,86,111"/>
+</map>

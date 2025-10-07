@@ -1,0 +1,16 @@
+<map id="com.bank.gui.view.panel.TransferPanel.TransferPanel" name="com.bank.gui.view.panel.TransferPanel.TransferPanel">
+<area shape="rect" id="Node000001" title="Δημιουργεί το panel μεταφοράς χρημάτων για τον τρέχοντα χρήστη." alt="" coords="5,131,193,173"/>
+<area shape="rect" id="Node000002" href="$d6/d0e/classcom_1_1bank_1_1manager_1_1_transaction_manager.html#a4ade645d8387a45e8026f0efd086c921" title="Executes a transaction and records it in history." alt="" coords="241,5,445,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,128,178,93,239,58,253,52,255,56,242,62,181,97,130,132"/>
+<area shape="rect" id="Node000004" href="$dd/db1/classcom_1_1bank_1_1manager_1_1_account_manager.html#a8a3ebf20f49b1718127736507683d480" title="Finds an account by IBAN." alt="" coords="251,72,435,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,127,236,116,237,121,191,133"/>
+<area shape="rect" id="Node000005" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a38981f8e6e13e82b7135c3b57bd2bba0" title=" " alt="" coords="502,101,680,144"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="193,144,486,126,487,132,193,149"/>
+<area shape="rect" id="Node000006" href="$dd/db1/classcom_1_1bank_1_1manager_1_1_account_manager.html#a9cfb69758fe6d4532cba2d754cca7af2" title="Returns all loaded accounts." alt="" coords="251,189,435,232"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="191,171,237,183,236,188,190,177"/>
+<area shape="rect" id="Node000007" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a9fb33a39fa4b91e75fc66a93ff23ae8b" title=" " alt="" coords="254,256,432,299"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="130,172,181,207,242,242,255,248,253,252,239,246,178,211,127,176"/>
+<area shape="rect" id="Node000003" href="$d5/d94/classcom_1_1bank_1_1model_1_1transactions_1_1_transaction.html#a31513476c29864af24cc9a96185ceaa7" title="Executes the transaction logic." alt="" coords="493,5,689,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,24,478,24,478,29,446,29"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="436,102,487,108,486,113,435,107"/>
+</map>

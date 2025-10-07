@@ -1,0 +1,5 @@
+<map id="com.bank.gui.view.MainDashboard" name="com.bank.gui.view.MainDashboard">
+<area shape="rect" id="Node000001" title="Main Swing frame acting as role&#45;aware dashboard (Individual / Company / Admin)." alt="" coords="5,123,219,192"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="85,5,140,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,90,115,123,110,123,110,90"/>
+</map>

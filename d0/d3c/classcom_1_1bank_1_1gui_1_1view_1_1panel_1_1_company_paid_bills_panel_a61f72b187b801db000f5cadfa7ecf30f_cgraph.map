@@ -1,0 +1,7 @@
+<map id="com.bank.gui.view.panel.CompanyPaidBillsPanel.CompanyPaidBillsPanel" name="com.bank.gui.view.panel.CompanyPaidBillsPanel.CompanyPaidBillsPanel">
+<area shape="rect" id="Node000001" title="Δημιουργεί panel εμφάνισης εξοφλημένων λογαριασμών εταιρείας." alt="" coords="5,31,227,89"/>
+<area shape="rect" id="Node000002" href="$dc/d48/classcom_1_1bank_1_1manager_1_1_bill_manager.html#ac7ca72058f0f60e72fb7a0d88742fc3c" title="Returns all bills (issued + paid)." alt="" coords="275,5,501,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,44,259,40,260,45,228,49"/>
+<area shape="rect" id="Node000003" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a2fa464e8efa1047ae0452e57c2bbfc57" title=" " alt="" coords="299,72,477,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,71,284,78,283,83,227,76"/>
+</map>

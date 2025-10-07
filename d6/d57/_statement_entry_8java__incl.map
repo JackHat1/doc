@@ -1,0 +1,9 @@
+<map id="model/statements/StatementEntry.java" name="model/statements/StatementEntry.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="190,5,379,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,104,172,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,51,131,100,129,95,237,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="196,96,373,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,48,287,81,282,81,282,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="397,104,574,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="333,46,444,95,442,100,331,51"/>
+</map>

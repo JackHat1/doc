@@ -1,0 +1,11 @@
+<map id="com.bank.gui.view.panel.AdminCreateAccountPanel.AdminCreateAccountPanel" name="com.bank.gui.view.panel.AdminCreateAccountPanel.AdminCreateAccountPanel">
+<area shape="rect" id="Node000001" title="Δημιουργεί το GUI panel για την εγγραφή νέου λογαριασμού." alt="" coords="5,97,225,156"/>
+<area shape="rect" id="Node000002" href="$dd/db1/classcom_1_1bank_1_1manager_1_1_account_manager.html#a0932dd1e26957b676e4fe890be42a0c7" title="Adds an account to the in&#45;memory list (not persisted until saveAll())." alt="" coords="300,5,484,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,94,272,57,292,51,294,56,274,63,182,99"/>
+<area shape="rect" id="Node000003" href="$db/d15/classcom_1_1bank_1_1manager_1_1_user_manager.html#afbdaa6e3428ae4884bb804b28b9c5535" title="Finds a customer by VAT number." alt="" coords="273,72,512,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,111,257,107,257,112,226,116"/>
+<area shape="rect" id="Node000004" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a38981f8e6e13e82b7135c3b57bd2bba0" title=" " alt="" coords="303,139,482,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,137,288,145,288,150,225,143"/>
+<area shape="rect" id="Node000005" href="$dd/db1/classcom_1_1bank_1_1manager_1_1_account_manager.html#a98dae1c354bea894f0eeaf043dbcdd42" title="Persists all accounts to CSV, overwriting the file." alt="" coords="300,205,484,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="182,154,274,191,294,198,292,203,272,196,180,159"/>
+</map>

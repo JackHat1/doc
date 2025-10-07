@@ -1,0 +1,15 @@
+<map id="gui/view/panel/AdminCustomerListPanel.java" name="gui/view/panel/AdminCustomerListPanel.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="557,5,759,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,220,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="557,45,213,96,213,91,556,40"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="244,96,458,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="580,51,415,94,414,89,578,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="482,96,668,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="638,51,601,87,597,83,635,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="692,96,792,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="681,47,719,83,716,87,678,51"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="816,96,895,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="710,46,811,87,809,92,708,51"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="919,96,1010,123"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="737,46,904,89,903,95,736,51"/>
+</map>

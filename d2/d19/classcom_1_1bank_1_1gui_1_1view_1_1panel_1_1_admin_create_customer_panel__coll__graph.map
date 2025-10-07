@@ -1,0 +1,5 @@
+<map id="com.bank.gui.view.panel.AdminCreateCustomerPanel" name="com.bank.gui.view.panel.AdminCreateCustomerPanel">
+<area shape="rect" id="Node000001" title="Δημιουργία νέου χρήστη από διαχειριστή (Individual / Company / Admin)." alt="" coords="5,123,203,208"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="79,5,130,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,89,107,123,102,123,102,89"/>
+</map>

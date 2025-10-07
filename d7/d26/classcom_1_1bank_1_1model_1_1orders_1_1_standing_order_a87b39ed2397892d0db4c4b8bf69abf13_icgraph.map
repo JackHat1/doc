@@ -1,0 +1,7 @@
+<map id="com.bank.model.orders.StandingOrder.setIsActive" name="com.bank.model.orders.StandingOrder.setIsActive">
+<area shape="rect" id="Node000001" title=" " alt="" coords="267,39,479,81"/>
+<area shape="rect" id="Node000002" href="$dc/d2a/classcom_1_1bank_1_1model_1_1orders_1_1_payment_order.html#a439eabdedf52f8c33708338984440c6e" title="Executes the payment order on the specified payment day." alt="" coords="5,5,219,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,47,219,43,220,38,251,42"/>
+<area shape="rect" id="Node000003" href="$d4/d34/classcom_1_1bank_1_1model_1_1orders_1_1_transfer_order.html#a043fd034f18ed31a9ad9fc95e2180dc6" title="Executes the transfer if the date matches the schedule and funds are sufficient." alt="" coords="7,72,217,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,78,217,83,217,77,251,73"/>
+</map>

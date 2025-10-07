@@ -1,0 +1,29 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$dd/d8c/interfacecom_1_1bank_1_1storage_1_1_storable.html" title="Defines the serialization and deserialization behavior for persistent objects." alt="" coords="5,191,183,217"/>
+<area shape="rect" id="Node000001" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html" title="Abstract base class for bank accounts." alt="" coords="248,65,426,108"/>
+<area shape="poly" id="edge5_Node000000_Node000001" title=" " alt="" coords="125,179,173,148,230,118,258,106,260,111,232,122,176,153,128,184"/>
+<area shape="rect" id="Node000004" href="$d3/dd4/classcom_1_1bank_1_1model_1_1bills_1_1_bill.html" title="Represents a payable bill/invoice with issuer, customer, amount and due date." alt="" coords="254,132,420,159"/>
+<area shape="poly" id="edge8_Node000000_Node000004" title=" " alt="" coords="165,184,230,168,277,157,278,162,231,173,167,189"/>
+<area shape="rect" id="Node000005" href="$d7/d26/classcom_1_1bank_1_1model_1_1orders_1_1_standing_order.html" title="Abstract base class for automated scheduled banking orders." alt="" coords="231,183,443,225"/>
+<area shape="poly" id="edge9_Node000000_Node000005" title=" " alt="" coords="198,201,230,201,230,207,198,207"/>
+<area shape="rect" id="Node000008" href="$d2/d71/classcom_1_1bank_1_1model_1_1statements_1_1_statement_entry.html" title="Represents a single transaction record in an account statement." alt="" coords="242,249,432,292"/>
+<area shape="poly" id="edge12_Node000000_Node000008" title=" " alt="" coords="161,219,257,246,256,251,159,225"/>
+<area shape="rect" id="Node000009" href="$dd/dee/classcom_1_1bank_1_1model_1_1users_1_1_user.html" title="Abstract base class for all user types in the banking system." alt="" coords="244,316,430,343"/>
+<area shape="poly" id="edge13_Node000000_Node000009" title=" " alt="" coords="123,226,171,265,232,302,262,313,261,318,230,306,168,269,120,230"/>
+<area shape="rect" id="Node000002" href="$d3/d75/classcom_1_1bank_1_1model_1_1accounts_1_1_business_account.html" title="Represents a business (company) bank account with an additional monthly maintenance fee." alt="" coords="509,5,687,48"/>
+<area shape="poly" id="edge6_Node000001_Node000002" title=" " alt="" coords="440,60,508,45,509,50,442,65"/>
+<area shape="rect" id="Node000003" href="$dc/df2/classcom_1_1bank_1_1model_1_1accounts_1_1_personal_account.html" title="Represents a personal bank account that can have multiple co&#45;owners." alt="" coords="509,72,687,115"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="442,87,509,88,508,94,442,92"/>
+<area shape="rect" id="Node000006" href="$dc/d2a/classcom_1_1bank_1_1model_1_1orders_1_1_payment_order.html" title="Standing order that pays a bill (by payment code) on its due date within a max amount limit." alt="" coords="492,151,705,193"/>
+<area shape="poly" id="edge10_Node000005_Node000006" title=" " alt="" coords="458,186,491,182,491,188,459,192"/>
+<area shape="rect" id="Node000007" href="$d4/d34/classcom_1_1bank_1_1model_1_1orders_1_1_transfer_order.html" title="Standing order that transfers a fixed amount between two IBANs on a specific day each month." alt="" coords="494,217,703,260"/>
+<area shape="poly" id="edge11_Node000005_Node000007" title=" " alt="" coords="459,217,493,222,493,227,458,223"/>
+<area shape="rect" id="Node000010" href="$d3/dd3/classcom_1_1bank_1_1model_1_1users_1_1_admin.html" title="Represents an administrative user in the banking system." alt="" coords="501,291,695,317"/>
+<area shape="poly" id="edge14_Node000009_Node000010" title=" " alt="" coords="445,316,500,311,501,316,446,321"/>
+<area shape="rect" id="Node000011" href="$dd/d5f/classcom_1_1bank_1_1model_1_1users_1_1_customer.html" title="Abstract base class representing a general bank customer." alt="" coords="491,341,705,368"/>
+<area shape="poly" id="edge15_Node000009_Node000011" title=" " alt="" coords="445,337,491,342,490,347,445,342"/>
+<area shape="rect" id="Node000012" href="$de/db1/classcom_1_1bank_1_1model_1_1users_1_1_company.html" title="Represents a business customer of the banking system." alt="" coords="753,316,967,343"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="720,340,752,337,753,342,721,345"/>
+<area shape="rect" id="Node000013" href="$dd/d7b/classcom_1_1bank_1_1model_1_1users_1_1_individual.html" title="Represents an individual (personal) customer in the banking system." alt="" coords="754,367,966,393"/>
+<area shape="poly" id="edge17_Node000011_Node000013" title=" " alt="" coords="721,364,754,367,753,372,720,369"/>
+</map>

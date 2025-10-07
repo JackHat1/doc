@@ -1,0 +1,19 @@
+<map id="gui/view/panel/WithdrawPanel.java" name="gui/view/panel/WithdrawPanel.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="427,5,651,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,88,105,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="427,33,279,52,117,83,105,86,104,81,116,77,278,47,426,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="129,88,208,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="448,35,339,55,221,83,213,85,212,80,220,77,338,49,448,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="232,88,323,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="495,35,336,83,328,85,326,80,334,77,493,30"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="347,80,526,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="525,35,476,72,473,68,521,30"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="549,88,734,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="557,30,615,76,612,80,553,35"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="759,80,943,123"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="589,30,757,73,755,78,587,35"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="968,80,1172,123"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="632,30,952,77,952,82,632,35"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1196,80,1392,123"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="651,25,891,44,1181,77,1180,82,890,50,651,30"/>
+</map>

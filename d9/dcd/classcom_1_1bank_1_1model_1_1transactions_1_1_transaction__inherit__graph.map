@@ -1,0 +1,11 @@
+<map id="com.bank.model.transactions.Transaction" name="com.bank.model.transactions.Transaction">
+<area shape="rect" id="Node000001" title="Abstract base class representing a financial transaction." alt="" coords="319,5,504,304"/>
+<area shape="rect" id="Node000002" href="$da/dd0/classcom_1_1bank_1_1model_1_1transactions_1_1_deposit.html" title="Represents a deposit transaction to a single bank account." alt="" coords="5,363,191,512"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="310,251,182,365,178,361,306,247"/>
+<area shape="rect" id="Node000003" href="$dd/d71/classcom_1_1bank_1_1model_1_1transactions_1_1_payment.html" title="Represents a bill payment transaction between a customer and a business account." alt="" coords="215,352,400,523"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="354,319,341,353,336,351,349,317"/>
+<area shape="rect" id="Node000004" href="$d1/d0c/classcom_1_1bank_1_1model_1_1transactions_1_1_transfer.html" title="Represents a money transfer between two bank accounts." alt="" coords="424,352,610,523"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="475,317,488,351,483,353,470,319"/>
+<area shape="rect" id="Node000005" href="$dd/df3/classcom_1_1bank_1_1model_1_1transactions_1_1_withdrawal.html" title="Represents a withdrawal transaction from a bank account." alt="" coords="633,352,819,523"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="517,246,635,352,632,356,514,250"/>
+</map>

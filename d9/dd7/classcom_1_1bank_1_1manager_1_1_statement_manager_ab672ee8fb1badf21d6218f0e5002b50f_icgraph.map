@@ -1,0 +1,11 @@
+<map id="com.bank.manager.StatementManager.saveStatement" name="com.bank.manager.StatementManager.saveStatement">
+<area shape="rect" id="Node000001" title="Appends a single statement entry to the account&#39;s statement file." alt="" coords="250,105,446,148"/>
+<area shape="rect" id="Node000002" href="$da/dd0/classcom_1_1bank_1_1model_1_1transactions_1_1_deposit.html#acbf4306b548288d42b6994d163e8500e" title="Executes the deposit transaction." alt="" coords="5,5,202,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,101,201,62,170,51,172,46,203,58,289,96"/>
+<area shape="rect" id="Node000003" href="$dd/d71/classcom_1_1bank_1_1model_1_1transactions_1_1_payment.html#a12390733378f0e1d8510782af7077dd4" title="Executes the payment transaction." alt="" coords="5,72,202,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,114,202,109,203,104,235,109"/>
+<area shape="rect" id="Node000004" href="$d1/d0c/classcom_1_1bank_1_1model_1_1transactions_1_1_transfer.html#a95ff280e61f4a497ceb1d8c2cbcd6d99" title="Executes the transfer transaction." alt="" coords="5,139,202,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,145,203,149,202,144,234,140"/>
+<area shape="rect" id="Node000005" href="$dd/df3/classcom_1_1bank_1_1model_1_1transactions_1_1_withdrawal.html#a85d3d4f510f381761cc3597fe34bcc78" title="Executes the withdrawal transaction." alt="" coords="5,205,202,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="289,157,203,196,172,207,170,202,201,191,287,153"/>
+</map>

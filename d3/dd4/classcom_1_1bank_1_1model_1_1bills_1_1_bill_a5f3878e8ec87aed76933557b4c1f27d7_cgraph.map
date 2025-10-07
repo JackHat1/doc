@@ -1,0 +1,5 @@
+<map id="com.bank.model.bills.Bill.Bill" name="com.bank.model.bills.Bill.Bill">
+<area shape="rect" id="Node000001" title="Constructs a new bill with 30&#45;day default due date." alt="" coords="5,13,194,40"/>
+<area shape="rect" id="Node000002" href="$dd/d22/classcom_1_1bank_1_1utilities_1_1_global_clock.html#a4b213daa421dfe86c55425781702327d" title="Returns the current simulated date." alt="" coords="242,5,406,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,24,226,24,226,29,194,29"/>
+</map>

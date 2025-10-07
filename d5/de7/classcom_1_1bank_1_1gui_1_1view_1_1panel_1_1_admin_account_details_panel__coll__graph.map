@@ -1,0 +1,5 @@
+<map id="com.bank.gui.view.panel.AdminAccountDetailsPanel" name="com.bank.gui.view.panel.AdminAccountDetailsPanel">
+<area shape="rect" id="Node000001" title="Προβολή λεπτομερειών λογαριασμού για Admin." alt="" coords="5,123,196,208"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="76,5,126,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,89,104,123,98,123,98,89"/>
+</map>

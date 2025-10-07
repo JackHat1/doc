@@ -1,0 +1,5 @@
+<map id="com.bank.storage.CsvStorageManager.load" name="com.bank.storage.CsvStorageManager.load">
+<area shape="rect" id="Node000001" title="Loads a single Storable object from a CSV file." alt="" coords="5,5,204,48"/>
+<area shape="rect" id="Node000002" href="$dd/d8c/interfacecom_1_1bank_1_1storage_1_1_storable.html#a877fde9bd198eb1529966da2f6f85fb1" title="Restores the object&#39;s state from a given text representation." alt="" coords="252,13,493,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,24,236,24,236,29,204,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.bank.manager.AccountManager.addAccount" name="com.bank.manager.AccountManager.addAccount">
+<area shape="rect" id="Node000001" title="Adds an account to the in&#45;memory list (not persisted until saveAll())." alt="" coords="273,13,457,56"/>
+<area shape="rect" id="Node000002" href="$dd/df4/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_create_account_panel.html#a8dc1fcbf6a9923b9e7c5cabf80fef53e" title="Δημιουργεί το GUI panel για την εγγραφή νέου λογαριασμού." alt="" coords="5,5,225,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,37,225,37,225,32,257,32"/>
+</map>

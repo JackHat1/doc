@@ -1,0 +1,19 @@
+<map id="gui/view/panel/AdminSimulateTimePanel.java" name="gui/view/panel/AdminSimulateTimePanel.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="695,5,892,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,104,147,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="695,37,451,59,305,77,159,99,139,103,138,97,158,93,304,71,450,54,695,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="171,96,349,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="695,45,365,98,364,93,695,40"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="374,96,552,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="716,51,556,94,554,89,715,46"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="576,96,789,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="769,50,722,88,719,84,766,46"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="813,104,998,131"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="821,46,879,92,876,96,818,51"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1022,104,1122,131"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="861,46,1011,93,1020,96,1018,101,1010,99,859,51"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1146,104,1225,131"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="892,41,1009,63,1134,93,1142,96,1140,101,1133,99,1008,68,891,46"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1249,104,1386,131"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="892,38,1055,61,1238,93,1256,97,1255,102,1237,99,1054,66,892,43"/>
+</map>

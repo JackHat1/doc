@@ -1,0 +1,23 @@
+<map id="com.bank.manager.AccountManager.getAllAccounts" name="com.bank.manager.AccountManager.getAllAccounts">
+<area shape="rect" id="Node000001" title="Returns all loaded accounts." alt="" coords="303,357,487,400"/>
+<area shape="rect" id="Node000002" href="$df/d31/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_accounts_panel.html#acf08212c71ce8389a521f7054c864436" title="Δημιουργεί το panel εμφάνισης λογαριασμών του χρήστη." alt="" coords="29,5,231,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,343,372,281,347,205,330,166,308,128,283,93,253,62,230,47,232,43,256,58,287,89,313,125,335,164,352,204,377,280,391,342"/>
+<area shape="rect" id="Node000003" href="$d3/d97/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_account_list_panel.html#ab1bde20ef6ce35efbeba32ada65e6e9c" title="Δημιουργεί το panel που εμφανίζει όλους τους λογαριασμούς του συστήματος." alt="" coords="5,72,255,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="379,344,361,299,334,245,298,191,253,145,236,133,239,129,256,141,302,188,338,242,366,296,384,342"/>
+<area shape="rect" id="Node000004" href="$d0/d7a/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_account_statements_panel.html#a71db6191ffbc00e50dfe72d28e127e26" title="Δημιουργεί το panel προβολής κινήσεων λογαριασμού." alt="" coords="25,155,235,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="369,347,320,286,288,255,253,228,233,216,236,212,256,223,292,251,324,282,373,343"/>
+<area shape="rect" id="Node000005" href="$d0/dbd/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_customer_details_panel.html#a2f0001eb86c6d5194a96fe77289563a4" title="Δημιουργεί το panel εμφάνισης στοιχείων πελάτη για τον Admin." alt="" coords="15,237,245,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="340,352,254,310,225,299,226,294,256,306,343,347"/>
+<area shape="rect" id="Node000006" href="$dd/d30/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_pay_bill_panel.html#a973563a6943f3648632453279e518cb1" title="Δημιουργεί το panel πληρωμής λογαριασμού από Admin." alt="" coords="6,320,254,363"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="287,366,254,361,255,356,287,361"/>
+<area shape="rect" id="Node000007" href="$d1/d1f/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_company_issue_bill_panel.html#a645fecb7696c87072389cb264b36bd77" title="Δημιουργεί panel έκδοσης λογαριασμού για εταιρικό χρήστη." alt="" coords="20,387,240,445"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="287,396,241,403,240,398,287,391"/>
+<area shape="rect" id="Node000008" href="$d4/df3/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_deposit_panel.html#a910b6db8aa423e0d595a89c256382be9" title="Δημιουργεί panel για εκτέλεση κατάθεσης σε έναν από τους λογαριασμούς του χρήστη." alt="" coords="39,469,221,512"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="349,411,305,436,256,460,222,472,220,467,254,455,302,432,346,406"/>
+<area shape="rect" id="Node000009" href="$dc/dd6/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_pay_bill_panel.html#a36e2af99e6d3c4df782013e94e77f6a4" title="Δημιουργεί panel για πληρωμή λογαριασμού με RF code." alt="" coords="43,536,217,579"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="372,414,323,472,291,501,256,526,218,543,216,538,253,522,288,497,319,468,368,411"/>
+<area shape="rect" id="Node000010" href="$dc/d10/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_transfer_panel.html#a8a794a4df9795e83bd93ab1709e44676" title="Δημιουργεί το panel μεταφοράς χρημάτων για τον τρέχοντα χρήστη." alt="" coords="36,603,224,645"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="382,416,363,457,335,505,300,552,256,593,226,609,223,605,253,588,296,549,331,502,358,455,377,413"/>
+<area shape="rect" id="Node000011" href="$d3/da8/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_withdraw_panel.html#abd3072a053a9ffdcb84c7828c6a49860" title="Δημιουργεί το panel ανάληψης χρημάτων." alt="" coords="29,669,231,712"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="388,416,372,471,346,536,308,603,284,633,256,659,233,674,230,670,253,655,280,629,304,600,341,534,367,469,383,415"/>
+</map>

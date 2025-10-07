@@ -1,0 +1,9 @@
+<map id="com.bank.model.accounts.Account.Account" name="com.bank.model.accounts.Account.Account">
+<area shape="rect" id="Node000001" title="Constructs a new account with zero initial balance." alt="" coords="5,72,184,115"/>
+<area shape="rect" id="Node000002" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a4da2de3bfef715a275c2dab81f8981a2" title="Generates a pseudo&#45;IBAN based on a country code and a type code." alt="" coords="242,5,420,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,69,237,50,238,55,173,74"/>
+<area shape="rect" id="Node000003" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#abf2351838f78865e3a6eac2446809484" title="Returns the short type code for this account (used in IBAN and serialization)." alt="" coords="232,72,430,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,91,216,91,216,96,184,96"/>
+<area shape="rect" id="Node000004" href="$dd/d22/classcom_1_1bank_1_1utilities_1_1_global_clock.html#a4b213daa421dfe86c55425781702327d" title="Returns the current simulated date." alt="" coords="249,139,413,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,113,238,131,237,136,172,118"/>
+</map>

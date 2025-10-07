@@ -1,0 +1,15 @@
+<map id="com.bank.manager.BillManager.getAllBills" name="com.bank.manager.BillManager.getAllBills">
+<area shape="rect" id="Node000001" title="Returns all bills (issued + paid)." alt="" coords="583,96,809,139"/>
+<area shape="rect" id="Node000002" href="$d3/db4/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_company_issued_bills_panel.html#ade98d2b70624a38a7da8d9724c6a2dd3" title="Δημιουργεί panel για εμφάνιση εκδομένων λογαριασμών μιας εταιρείας." alt="" coords="301,5,535,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="607,94,518,67,520,62,608,89"/>
+<area shape="rect" id="Node000003" href="$d0/d3c/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_company_paid_bills_panel.html#a61f72b187b801db000f5cadfa7ecf30f" title="Δημιουργεί panel εμφάνισης εξοφλημένων λογαριασμών εταιρείας." alt="" coords="307,88,528,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="568,120,529,120,529,115,568,115"/>
+<area shape="rect" id="Node000004" href="$dc/d48/classcom_1_1bank_1_1manager_1_1_bill_manager.html#a9e1ae7cd2460652d88fd043dca6d4dc5" title="Finds a bill by its RF/paymentCode among all bills." alt="" coords="305,171,531,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="600,146,501,173,500,167,598,141"/>
+<area shape="rect" id="Node000005" href="$dd/d30/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_pay_bill_panel.html#a973563a6943f3648632453279e518cb1" title="Δημιουργεί το panel πληρωμής λογαριασμού από Admin." alt="" coords="5,104,253,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="307,169,224,150,225,145,308,164"/>
+<area shape="rect" id="Node000006" href="$dc/d2a/classcom_1_1bank_1_1model_1_1orders_1_1_payment_order.html#a439eabdedf52f8c33708338984440c6e" title="Executes the payment order on the specified payment day." alt="" coords="22,171,236,213"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="289,195,236,195,236,189,289,189"/>
+<area shape="rect" id="Node000007" href="$dc/dd6/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_pay_bill_panel.html#a36e2af99e6d3c4df782013e94e77f6a4" title="Δημιουργεί panel για πληρωμή λογαριασμού με RF code." alt="" coords="42,237,216,280"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="308,220,217,241,216,236,307,215"/>
+</map>

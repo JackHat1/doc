@@ -1,0 +1,9 @@
+<map id="com.bank.cli.Main.main" name="com.bank.cli.Main.main">
+<area shape="rect" id="Node000001" title="Application entry point." alt="" coords="5,56,165,83"/>
+<area shape="rect" id="Node000002" href="$db/d56/classcom_1_1bank_1_1cli_1_1_admin_menu.html#a1e275037da9407d25c6d74d0c242f385" title="Runs the interactive admin menu loop." alt="" coords="222,5,412,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,53,238,33,239,38,150,58"/>
+<area shape="rect" id="Node000003" href="$d9/d37/classcom_1_1bank_1_1cli_1_1_company_menu.html#a68ea5585d66a2b40af0842bc3d434d35" title="Runs the interactive company menu." alt="" coords="213,56,422,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,67,197,67,197,72,165,72"/>
+<area shape="rect" id="Node000004" href="$da/da2/classcom_1_1bank_1_1cli_1_1_individual_menu.html#a2ad799159e3df813822347541ad22020" title="Runs the interactive menu loop." alt="" coords="213,107,422,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,81,239,100,238,105,149,86"/>
+</map>

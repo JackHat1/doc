@@ -1,0 +1,14 @@
+<map id="com.bank.gui.view.panel.AdminAccountStatementsPanel.AdminAccountStatementsPanel" name="com.bank.gui.view.panel.AdminAccountStatementsPanel.AdminAccountStatementsPanel">
+<area shape="rect" id="Node000001" title="Δημιουργεί το panel προβολής κινήσεων λογαριασμού." alt="" coords="5,64,216,123"/>
+<area shape="rect" id="Node000002" href="$dd/db1/classcom_1_1bank_1_1manager_1_1_account_manager.html#a8a3ebf20f49b1718127736507683d480" title="Finds an account by IBAN." alt="" coords="270,5,454,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,63,263,50,265,55,217,68"/>
+<area shape="rect" id="Node000004" href="$dd/db1/classcom_1_1bank_1_1manager_1_1_account_manager.html#a9cfb69758fe6d4532cba2d754cca7af2" title="Returns all loaded accounts." alt="" coords="270,72,454,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,91,254,91,254,96,216,96"/>
+<area shape="rect" id="Node000005" href="$d9/dd7/classcom_1_1bank_1_1manager_1_1_statement_manager.html#a26e1d7788e4c26ead0ce932e8e23ae27" title="Loads all statement entries for a given account." alt="" coords="264,139,460,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="217,119,265,132,263,137,216,124"/>
+<area shape="rect" id="Node000003" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html#a38981f8e6e13e82b7135c3b57bd2bba0" title=" " alt="" coords="514,39,692,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,37,499,43,498,48,454,42"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="429,136,459,124,544,86,546,91,461,129,431,141"/>
+<area shape="rect" id="Node000006" href="$d2/d71/classcom_1_1bank_1_1model_1_1statements_1_1_statement_entry.html#a3d487ca54c16c2c07ec6ec186389c070" title="Populates this entry from a serialized CSV line." alt="" coords="508,139,698,181"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="461,157,492,157,492,163,461,163"/>
+</map>

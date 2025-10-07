@@ -1,0 +1,5 @@
+<map id="com.bank.manager.UserManager.getAllUsers" name="com.bank.manager.UserManager.getAllUsers">
+<area shape="rect" id="Node000001" title="Returns the full list of users." alt="" coords="264,13,500,56"/>
+<area shape="rect" id="Node000002" href="$dc/deb/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_customer_list_panel.html#aad2fe95717eee639ea2911288d597324" title="Δημιουργεί το panel που εμφανίζει τη λίστα πελατών." alt="" coords="5,5,216,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,37,216,37,216,32,248,32"/>
+</map>

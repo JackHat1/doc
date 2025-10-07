@@ -1,0 +1,5 @@
+<map id="com.bank.manager.UserManager.addUser" name="com.bank.manager.UserManager.addUser">
+<area shape="rect" id="Node000001" title="Adds a new user to the system." alt="" coords="282,21,549,48"/>
+<area shape="rect" id="Node000002" href="$d2/d09/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_create_customer_panel.html#a67f0a462826b49456c7017475c139c1b" title="Δημιουργεί το panel δημιουργίας νέου χρήστη." alt="" coords="5,5,234,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,37,234,37,234,32,266,32"/>
+</map>

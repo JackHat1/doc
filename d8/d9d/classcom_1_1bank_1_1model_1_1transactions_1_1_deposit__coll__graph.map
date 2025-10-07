@@ -1,0 +1,12 @@
+<map id="com.bank.model.transactions.Deposit" name="com.bank.model.transactions.Deposit">
+<area shape="rect" id="Node000001" title="Represents a deposit transaction to a single bank account." alt="" coords="102,864,288,1013"/>
+<area shape="rect" id="Node000002" href="$d5/d94/classcom_1_1bank_1_1model_1_1transactions_1_1_transaction.html" title="Abstract base class representing a financial transaction." alt="" coords="102,559,288,815"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,830,198,864,192,864,192,830"/>
+<area shape="rect" id="Node000003" href="$d2/d71/classcom_1_1bank_1_1model_1_1statements_1_1_statement_entry.html" title="Represents a single transaction record in an account statement." alt="" coords="5,145,185,487"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,486,148,534,151,542,146,543,143,535,130,487"/>
+<area shape="rect" id="Node000004" href="$dd/d8c/interfacecom_1_1bank_1_1storage_1_1_storable.html" title="Defines the serialization and deserialization behavior for persistent objects." alt="" coords="112,5,278,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="175,111,162,147,157,145,171,109"/>
+<area shape="rect" id="Node000005" href="$dd/dee/classcom_1_1bank_1_1model_1_1users_1_1_user.html" title="Abstract base class for all user types in the banking system." alt="" coords="209,207,384,425"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="220,109,257,206,252,208,215,111"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="279,426,252,535,250,543,245,541,247,534,274,425"/>
+</map>

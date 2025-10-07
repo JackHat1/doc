@@ -1,0 +1,5 @@
+<map id="com.bank.model.accounts.BusinessAccount.getMonthlyFee" name="com.bank.model.accounts.BusinessAccount.getMonthlyFee">
+<area shape="rect" id="Node000001" title="Returns the monthly maintenance fee of this account." alt="" coords="232,5,445,48"/>
+<area shape="rect" id="Node000002" href="$d3/d75/classcom_1_1bank_1_1model_1_1accounts_1_1_business_account.html#aa9ce2b5e047602cfdbbc836233fd567e" title="Serializes this business account into a single&#45;line key&#45;value string." alt="" coords="5,5,184,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,29,184,29,184,24,216,24"/>
+</map>

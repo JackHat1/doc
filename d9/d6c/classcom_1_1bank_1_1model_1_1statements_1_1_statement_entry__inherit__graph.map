@@ -1,0 +1,5 @@
+<map id="com.bank.model.statements.StatementEntry" name="com.bank.model.statements.StatementEntry">
+<area shape="rect" id="Node000001" title="Represents a single transaction record in an account statement." alt="" coords="5,144,185,485"/>
+<area shape="rect" id="Node000002" href="$dd/d8c/interfacecom_1_1bank_1_1storage_1_1_storable.html" title="Defines the serialization and deserialization behavior for persistent objects." alt="" coords="12,5,178,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,111,98,145,92,145,92,111"/>
+</map>

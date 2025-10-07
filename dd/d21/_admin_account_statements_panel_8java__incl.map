@@ -1,0 +1,17 @@
+<map id="gui/view/panel/AdminAccountStatementsPanel.java" name="gui/view/panel/AdminAccountStatementsPanel.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="636,5,829,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,190,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="635,41,441,65,205,98,204,93,440,59,635,36"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="214,96,410,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="636,51,426,95,425,90,635,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="435,96,613,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="684,51,588,92,586,87,682,46"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="637,96,827,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="735,48,735,81,730,81,730,48"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="852,104,951,131"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="773,46,865,94,863,99,771,51"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="975,104,1054,131"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="808,46,964,93,970,96,968,101,962,99,807,51"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1078,104,1170,131"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="830,42,944,64,1068,93,1077,96,1075,101,1066,99,943,69,829,47"/>
+</map>

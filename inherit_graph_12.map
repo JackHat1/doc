@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d5/d94/classcom_1_1bank_1_1model_1_1transactions_1_1_transaction.html" title="Abstract base class representing a financial transaction." alt="" coords="5,105,202,148"/>
+<area shape="rect" id="Node000001" href="$da/dd0/classcom_1_1bank_1_1model_1_1transactions_1_1_deposit.html" title="Represents a deposit transaction to a single bank account." alt="" coords="250,5,446,48"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="162,96,249,58,279,46,281,51,251,62,164,101"/>
+<area shape="rect" id="Node000002" href="$dd/d71/classcom_1_1bank_1_1model_1_1transactions_1_1_payment.html" title="Represents a bill payment transaction between a customer and a business account." alt="" coords="250,72,446,115"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="217,109,249,104,249,109,217,114"/>
+<area shape="rect" id="Node000003" href="$d1/d0c/classcom_1_1bank_1_1model_1_1transactions_1_1_transfer.html" title="Represents a money transfer between two bank accounts." alt="" coords="250,139,446,181"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="217,140,249,144,249,149,217,145"/>
+<area shape="rect" id="Node000004" href="$dd/df3/classcom_1_1bank_1_1model_1_1transactions_1_1_withdrawal.html" title="Represents a withdrawal transaction from a bank account." alt="" coords="250,205,446,248"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="164,153,251,191,281,202,279,207,249,196,162,157"/>
+</map>

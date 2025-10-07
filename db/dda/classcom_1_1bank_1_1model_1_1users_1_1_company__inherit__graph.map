@@ -1,0 +1,9 @@
+<map id="com.bank.model.users.Company" name="com.bank.model.users.Company">
+<area shape="rect" id="Node000001" title="Represents a business customer of the banking system." alt="" coords="6,549,208,704"/>
+<area shape="rect" id="Node000002" href="$dd/d5f/classcom_1_1bank_1_1model_1_1users_1_1_customer.html" title="Abstract base class representing a general bank customer." alt="" coords="5,411,209,501"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,516,110,550,104,550,104,516"/>
+<area shape="rect" id="Node000003" href="$dd/dee/classcom_1_1bank_1_1model_1_1users_1_1_user.html" title="Abstract base class for all user types in the banking system." alt="" coords="20,144,194,363"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,377,110,411,104,411,104,377"/>
+<area shape="rect" id="Node000004" href="$dd/d8c/interfacecom_1_1bank_1_1storage_1_1_storable.html" title="Defines the serialization and deserialization behavior for persistent objects." alt="" coords="24,5,190,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,111,110,144,104,144,104,111"/>
+</map>

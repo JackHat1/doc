@@ -1,0 +1,12 @@
+<map id="com.bank.model.accounts.PersonalAccount" name="com.bank.model.accounts.PersonalAccount">
+<area shape="rect" id="Node000001" title="Represents a personal bank account that can have multiple co&#45;owners." alt="" coords="10,1073,178,1287"/>
+<area shape="rect" id="Node000002" href="$da/d83/classcom_1_1bank_1_1model_1_1accounts_1_1_account.html" title="Abstract base class for bank accounts." alt="" coords="10,576,178,1024"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,1039,97,1074,91,1074,91,1039"/>
+<area shape="rect" id="Node000003" href="$dd/d8c/interfacecom_1_1bank_1_1storage_1_1_storable.html" title="Defines the serialization and deserialization behavior for persistent objects." alt="" coords="5,5,172,96"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,111,95,576,90,576,86,111"/>
+<area shape="rect" id="Node000005" href="$dd/dee/classcom_1_1bank_1_1model_1_1users_1_1_user.html" title="Abstract base class for all user types in the banking system." alt="" coords="117,145,292,364"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="124,107,145,144,140,147,119,110"/>
+<area shape="rect" id="Node000004" href="$dd/d5f/classcom_1_1bank_1_1model_1_1users_1_1_customer.html" title="Abstract base class representing a general bank customer." alt="" coords="110,413,313,504"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="199,505,179,561,174,559,194,503"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="211,379,213,413,207,414,206,379"/>
+</map>

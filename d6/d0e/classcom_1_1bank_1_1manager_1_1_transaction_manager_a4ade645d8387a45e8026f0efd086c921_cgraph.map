@@ -1,0 +1,5 @@
+<map id="com.bank.manager.TransactionManager.execute" name="com.bank.manager.TransactionManager.execute">
+<area shape="rect" id="Node000001" title="Executes a transaction and records it in history." alt="" coords="5,5,210,48"/>
+<area shape="rect" id="Node000002" href="$d5/d94/classcom_1_1bank_1_1model_1_1transactions_1_1_transaction.html#a31513476c29864af24cc9a96185ceaa7" title="Executes the transaction logic." alt="" coords="258,5,454,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,24,242,24,242,29,210,29"/>
+</map>

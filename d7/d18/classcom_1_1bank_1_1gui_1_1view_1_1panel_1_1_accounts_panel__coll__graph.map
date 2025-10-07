@@ -1,0 +1,5 @@
+<map id="com.bank.gui.view.panel.AccountsPanel" name="com.bank.gui.view.panel.AccountsPanel">
+<area shape="rect" id="Node000001" title="Εμφανίζει όλους τους τραπεζικούς λογαριασμούς του συνδεδεμένου χρήστη." alt="" coords="5,123,163,208"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="59,5,110,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,89,87,123,82,123,82,89"/>
+</map>

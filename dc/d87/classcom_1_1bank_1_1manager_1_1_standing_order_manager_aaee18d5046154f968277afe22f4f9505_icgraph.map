@@ -1,0 +1,5 @@
+<map id="com.bank.manager.StandingOrderManager.loadOrders" name="com.bank.manager.StandingOrderManager.loadOrders">
+<area shape="rect" id="Node000001" title="Loads standing orders from all ledgers into memory." alt="" coords="294,5,481,48"/>
+<area shape="rect" id="Node000002" href="$dc/d87/classcom_1_1bank_1_1manager_1_1_standing_order_manager.html#a1cca7c218ad9fb86c6060dccc0bd6bcb" title="Constructs the manager and immediately loads orders from disk." alt="" coords="5,5,246,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,29,246,29,246,24,278,24"/>
+</map>

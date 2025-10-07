@@ -1,0 +1,18 @@
+<map id="com.bank.gui.view.panel.CompanyIssueBillPanel.CompanyIssueBillPanel" name="com.bank.gui.view.panel.CompanyIssueBillPanel.CompanyIssueBillPanel">
+<area shape="rect" id="Node000001" title="Δημιουργεί panel έκδοσης λογαριασμού για εταιρικό χρήστη." alt="" coords="5,203,226,261"/>
+<area shape="rect" id="Node000002" href="$dc/d48/classcom_1_1bank_1_1manager_1_1_bill_manager.html#abff1fcc6244988c55e92bb56be27ecae" title="Issues (creates or replaces) a bill and persists it." alt="" coords="274,139,536,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,200,273,181,328,167,330,172,274,187,212,205"/>
+<area shape="rect" id="Node000006" href="$dc/d48/classcom_1_1bank_1_1manager_1_1_bill_manager.html#ae8eda57edbba75f404b5053d0f1a240f" title="Persists in&#45;memory issued &amp; paid lists to global ledgers." alt="" coords="584,189,835,216"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="226,224,568,207,568,212,226,229"/>
+<area shape="rect" id="Node000007" href="$db/d15/classcom_1_1bank_1_1manager_1_1_user_manager.html#afbdaa6e3428ae4884bb804b28b9c5535" title="Finds a customer by VAT number." alt="" coords="285,240,524,283"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="226,241,270,245,269,250,226,246"/>
+<area shape="rect" id="Node000008" href="$dd/db1/classcom_1_1bank_1_1manager_1_1_account_manager.html#a9cfb69758fe6d4532cba2d754cca7af2" title="Returns all loaded accounts." alt="" coords="313,307,497,349"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="187,259,275,292,298,299,297,305,273,297,185,264"/>
+<area shape="rect" id="Node000003" href="$d3/dd4/classcom_1_1bank_1_1model_1_1bills_1_1_bill.html#a85e3655af649e76472f6b1f19b522ccf" title=" " alt="" coords="616,5,804,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,136,496,98,583,58,602,51,604,56,585,62,498,103,430,140"/>
+<area shape="rect" id="Node000004" href="$d3/dd4/classcom_1_1bank_1_1model_1_1bills_1_1_bill.html#a73882163a2347d97e6d532096d4c2312" title=" " alt="" coords="616,72,804,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="478,135,600,112,601,117,479,141"/>
+<area shape="rect" id="Node000005" href="$d3/dd4/classcom_1_1bank_1_1model_1_1bills_1_1_bill.html#a5cfd451c2f0ce7ccd05bad2dd2c1e1f0" title="Serializes the bill to a single&#45;line key&#45;value representation." alt="" coords="602,139,818,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="537,149,586,149,586,155,537,155"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="490,163,611,184,610,189,489,169"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.bank.model.users.User.getFullName" name="com.bank.model.users.User.getFullName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="284,55,491,97"/>
+<area shape="rect" id="Node000002" href="$dd/d41/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_account_details_panel.html#a78d537f580f0dddc9983b57244f0532f" title="Δημιουργεί το panel προβολής λεπτομερειών λογαριασμού." alt="" coords="10,5,231,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,60,231,54,232,49,269,55"/>
+<area shape="rect" id="Node000003" href="$d0/dbd/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_customer_details_panel.html#a2f0001eb86c6d5194a96fe77289563a4" title="Δημιουργεί το panel εμφάνισης στοιχείων πελάτη για τον Admin." alt="" coords="5,88,236,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,97,237,102,236,97,268,92"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.bank.model.accounts.Account.unmarshal" name="com.bank.model.accounts.Account.unmarshal">
+<area shape="rect" id="Node000001" title="Deserializes fields from a key&#45;value string produced by marshal()." alt="" coords="470,5,648,48"/>
+<area shape="rect" id="Node000002" href="$dd/db1/classcom_1_1bank_1_1manager_1_1_account_manager.html#ae89787590be8e4cb9f2310aee2630b1a" title="Loads accounts from CSV into memory." alt="" coords="238,5,422,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="454,29,423,29,423,24,454,24"/>
+<area shape="rect" id="Node000003" href="$dc/dd6/classcom_1_1bank_1_1gui_1_1app_1_1_e_banking_app.html#af606e2bd044a63a8b202a0676581b02d" title="Application entry point (Swing)." alt="" coords="5,5,190,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,29,190,29,190,24,222,24"/>
+</map>

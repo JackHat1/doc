@@ -1,0 +1,13 @@
+<map id="model/bills/Bill.java" name="model/bills/Bill.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="390,5,523,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,88,143,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,35,156,83,139,86,138,81,155,77,389,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="167,80,344,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="426,35,322,76,320,71,424,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="368,88,545,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="459,32,459,73,454,73,454,32"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="569,80,734,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="488,30,588,71,586,76,486,35"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="758,80,936,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="519,30,743,76,742,81,518,35"/>
+</map>

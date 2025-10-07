@@ -1,0 +1,16 @@
+<map id="com.bank.model.bills.Bill.setPaid" name="com.bank.model.bills.Bill.setPaid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="596,91,810,117"/>
+<area shape="rect" id="Node000002" href="$dd/d30/classcom_1_1bank_1_1gui_1_1view_1_1panel_1_1_admin_pay_bill_panel.html#a973563a6943f3648632453279e518cb1" title="Δημιουργεί το panel πληρωμής λογαριασμού από Admin." alt="" coords="5,5,253,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="663,85,610,60,547,40,472,27,395,21,253,20,253,15,395,16,473,22,549,35,611,55,666,81"/>
+<area shape="rect" id="Node000003" href="$dc/d2a/classcom_1_1bank_1_1model_1_1orders_1_1_payment_order.html#a439eabdedf52f8c33708338984440c6e" title="Executes the payment order on the specified payment day." alt="" coords="318,49,531,92"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="580,92,531,86,532,81,581,87"/>
+<area shape="rect" id="Node000004" href="$dc/d48/classcom_1_1bank_1_1manager_1_1_bill_manager.html#a0a16b9f5e89eb52128535fa13f8e558f" title="Loads bills from global ledgers and daily files; rebuilds in&#45;memory state." alt="" coords="308,116,540,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="581,121,541,126,541,121,580,116"/>
+<area shape="rect" id="Node000007" href="$dc/d48/classcom_1_1bank_1_1manager_1_1_bill_manager.html#abe21beb814dcc20d159493f761fff0f7" title="Marks a bill as paid and persists updates." alt="" coords="301,183,548,209"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="662,127,609,151,549,173,505,185,504,180,547,168,607,146,660,122"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="320,113,300,106,232,79,173,51,175,46,234,74,302,102,322,108"/>
+<area shape="rect" id="Node000005" href="$dc/d48/classcom_1_1bank_1_1manager_1_1_bill_manager.html#ac5b29442abb03e824dea42ee7b7d0ab0" title="Constructs the manager and loads persisted state." alt="" coords="25,101,233,144"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="293,133,233,131,234,125,293,128"/>
+<area shape="rect" id="Node000006" href="$dc/dd6/classcom_1_1bank_1_1gui_1_1app_1_1_e_banking_app.html#af606e2bd044a63a8b202a0676581b02d" title="Application entry point (Swing)." alt="" coords="37,168,221,211"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="293,163,222,176,221,171,292,158"/>
+</map>
